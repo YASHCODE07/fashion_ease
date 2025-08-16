@@ -17,6 +17,7 @@ FILE STRUCTURE
 ├── .gitignore
 ├── README.md
 ├── backend
+
     ├── .env.sample
     ├── .flaskenv
     ├── app.py
