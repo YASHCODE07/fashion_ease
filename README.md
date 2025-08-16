@@ -14,8 +14,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 FILE STRUCTURE
 
-├── .gitignore
+├──.gitignore
+
 ├── README.md
+
 ├── backend
 
     ├── .env.sample
@@ -32,7 +34,9 @@ FILE STRUCTURE
     │   ├── order_items.py
     │   ├── order_routes.py
     │   └── product_routes.py
+    
 └── frontend
+
     ├── .gitignore
     ├── eslint.config.js
     ├── index.html
