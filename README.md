@@ -16,8 +16,6 @@ FILE STRUCTURE
 
 ├──.gitignore
 
-├── README.md
-
 ├── backend
 
     ├── .env.sample
